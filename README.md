@@ -1,6 +1,6 @@
 # GIS boundary analysis of Greater London – Spatial Econometrics Project
 
-![Language](https://img.shields.io/badge/code-python-blue?logo=python&logoColor=white)
+![Language](https://img.shields.io/badge/code-R-blue?logo=r&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative)
 ![Status](https://img.shields.io/badge/status-finished-success?style=flat&logo=github)
 
