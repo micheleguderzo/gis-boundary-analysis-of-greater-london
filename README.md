@@ -18,13 +18,13 @@ This project presents a **geospatial analysis** of Greater London based on **GIS
 
 ## 🗂️ Repository Structure
 
-├── README.md      # This file  
-├── LICENSE        # Project license (MIT)  
-├── .gitignore     # Git ignore file for excluded files/folders  
-├── code/          # Jupyter Notebook containing all code for data processing and analysis  
-├── data/          # Dataset used ("Individuals' level of digital skills" from Eurostat)  
-├── plots/         # Output visualizations (charts used in the report)  
-└── report/        # Final report (PDF written in LaTeX)  
+├── README.md     # This file  
+├── LICENSE       # Project license (MIT)  
+├── .gitignore    # Git ignore file for excluded files/folders  
+├── code/         # R scripts for spatial analysis, distance calculations, and regression modeling  
+├── data/         # Shapefiles and spatial datasets from the London Datastore  
+├── plots/        # Choropleth maps and scatter plot
+└── report/       # Final report (PDF written in LaTeX)
 
 ## 📊 Dataset
 
