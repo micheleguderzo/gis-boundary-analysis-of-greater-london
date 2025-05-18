@@ -23,7 +23,7 @@ This project presents a **geospatial analysis** of Greater London based on **GIS
 ├── .gitignore    # Git ignore file for excluded files/folders  
 ├── code/         # R scripts for spatial analysis, distance calculations, and regression modeling  
 ├── data/         # Shapefiles and spatial datasets from the London Datastore  
-├── plots/        # Choropleth maps and scatter plot
+├── plots/        # Choropleth maps and scatter plot  
 └── report/       # Final report (PDF written in LaTeX)
 
 ## 📊 Dataset
